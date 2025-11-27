@@ -1,0 +1,5 @@
+{
+  "name": "MechaMind Analytics",
+  "description": "Dashboard de mantenimiento predictivo para motores industriales utilizando simulación de datos en tiempo real y análisis de IA con Gemini.",
+  "requestFramePermissions": []
+}
